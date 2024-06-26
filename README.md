@@ -23,5 +23,8 @@ The data set includes various superstore's information from 2019 to 2022, includ
 - From 2019 to 2022, the company sold 38,000 product items in total. The dashboard also shows that the superstore's **revenue increased gradually** during the given period.
 
 ### Sales Trending  
-- During the given period, sales trends showed consistent growth with seasonal fluctuations. Overall, consumers accounted for the highest sales. Sales typically rose from Q1, peaked around mid-year (Q3), and declined towards year-end (Q4). In 2016, consumer sales started at 25K in Q1, peaked at 100K in Q4. Corporate and Home Offices are also followed similar seasonal patterns, with Corporate sales peaking at 50K and Home Office 30K in 2016. As a result, focus on running more promotions from Q3 can help to boost the store’s sales.
+- During the given period, sales trends showed consistent growth with seasonal fluctuations. Overall, **consumers accounted for the highest sales**. Sales typically **rose from Q1, peaked around mid-year (Q3), and declined towards year-end (Q4)**. In 2016, consumer sales started at 25K in Q1, peaked at 100K in Q4. Corporate and Home Offices are also followed similar seasonal patterns, with Corporate sales peaking at 50K and Home Office 30K in 2016. As a result, focus on running more promotions from Q3 can help to boost the store’s sales.
+- **Orders by Ship Mode**: Most customers go for Standard Class shipping mode, which means that they prioritize cost-savings over fast delivery.
+- **Order by Customer**: The consumer segment is the largest customer base. Therefore, superstore should increase the marketing campaign to boost the sales for consumer segment during the peaked period to maximize the sales and profits. The Corporate and Home Office Segment with smaller customers, presents the growth opportunities.
+ 
  
