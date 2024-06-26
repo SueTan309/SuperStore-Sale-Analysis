@@ -12,7 +12,7 @@ Superstore is a fictional retail company based in the United States. They specia
 - Which customer segement brings to the most profit? 
 - How has the company's performance trend over the year?
 
-### Data Set
+## Data Set
 The data set includes various superstore's information from 2019 to 2022, including order specific, customer-related, and product-related data. For those who interested in viewing or downloading the dataset, it is included in my this repository. 
 
 ### Dashboard
@@ -44,4 +44,6 @@ The data set includes various superstore's information from 2019 to 2022, includ
 - Monitoring, analyzing sale market trends and consumers’ feedback in these top-performing state to stay ahead of competitor and sustain growth.  
 
 
+## CONTACT
+If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
 
