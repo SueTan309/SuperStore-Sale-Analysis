@@ -26,6 +26,10 @@ The data set includes various superstore's information from 2019 to 2022, includ
 - During the given period, sales trends showed consistent growth with seasonal fluctuations. Overall, **consumers accounted for the highest sales**. Sales typically **rose from Q1, peaked around mid-year (Q3), and declined towards year-end (Q4)**. In 2016, consumer sales started at 25K in Q1, peaked at 100K in Q4. Corporate and Home Offices are also followed similar seasonal patterns, with Corporate sales peaking at 50K and Home Office 30K in 2016. As a result, focus on running more promotions from Q3 can help to boost the store’s sales.
 - **Orders by Ship Mode**: Most customers go for Standard Class shipping mode, which means that they prioritize cost-savings over fast delivery.
 - **Order by Customer**: The consumer segment is the largest customer base. Therefore, superstore should increase the marketing campaign to boost the sales for consumer segment during the peaked period to maximize the sales and profits. The Corporate and Home Office Segment with smaller customers, presents the growth opportunities.
+
+### The Best Seller Product
+- **Canon image CLASS 2200 Advanced Copier** is the best seller products in SuperStore, accounted for nearly 61,600 items sold during the period. SuperStore can based on this consumer preferrence to boost more promotion in this product to attract consumers.
+
  
  
 <img width="766" alt="Screenshot 2024-06-27 at 12 52 16 AM" src="https://github.com/SueTan309/SuperStore-Sale-Analysis/assets/169891418/72969860-ab6c-42e6-b626-865e673ab2f5">
