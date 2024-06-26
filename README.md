@@ -19,8 +19,8 @@ The data set includes various superstore's information from 2019 to 2022, includ
 <img width="756" alt="Screenshot 2024-06-25 at 6 22 09 PM" src="https://github.com/SueTan309/SuperStore-Sale-Analysis/assets/169891418/00e7e676-ea6d-426c-bf83-0742695c0813">
 
 ### KPI
-- Over the past 4 years, superstore generated $2.30M revenues but only reached $286.40K profit, which means that the profit accounts for 12.45% of the total revenue. The company's average discount stood at 16%, suggesting that the discounting strategy might have influenced the profit margin.
-- From 2019 to 2022, the company sold 38,000 product items in total. The dashboard also shows that the superstore's revenue increased gradually during the given period.
+- Over the past 4 years, superstore generated $2.30M revenues but only reached $286.40K profit, which means that the **profit accounts for 12.45% of the total revenue**. The company's average discount stood at 16%, suggesting that the discounting strategy might have influenced the profit margin.
+- From 2019 to 2022, the company sold 38,000 product items in total. The dashboard also shows that the superstore's **revenue increased gradually** during the given period.
 
 ### Sales Trending  
 - During the given period, sales trends showed consistent growth with seasonal fluctuations. Overall, consumers accounted for the highest sales. Sales typically rose from Q1, peaked around mid-year (Q3), and declined towards year-end (Q4). In 2016, consumer sales started at 25K in Q1, peaked at 100K in Q4. Corporate and Home Offices are also followed similar seasonal patterns, with Corporate sales peaking at 50K and Home Office 30K in 2016. As a result, focus on running more promotions from Q3 can help to boost the store’s sales.
