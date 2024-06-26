@@ -37,3 +37,4 @@ The data set includes various superstore's information from 2019 to 2022, includ
 ### Profit Trending
 - From 2016 to 2019, the profit increased gradually every year, reached nearly $100k in 2019 
 - Overall, Technology category  dominated the SuperStore's profit, which accounted for 50.79% of total profit. This suggest that consumer-oriented tech products might be the most profitable items. In contrast, Furniture is the least profitable items across all product categories, indicating potential for cost optimization or pricing adjustments. 
+
