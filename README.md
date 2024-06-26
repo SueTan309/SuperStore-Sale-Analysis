@@ -36,5 +36,12 @@ The data set includes various superstore's information from 2019 to 2022, includ
 
 ### Profit Trending
 - From 2016 to 2019, the profit increased gradually every year, reached nearly $100k in 2019 
-- Overall, Technology category  dominated the SuperStore's profit, which accounted for 50.79% of total profit. This suggest that consumer-oriented tech products might be the most profitable items. In contrast, Furniture is the least profitable items across all product categories, indicating potential for cost optimization or pricing adjustments. 
+- Overall, Technology category  dominated the SuperStore's profit, which accounted for 50.79% of total profit. This suggest that consumer-oriented tech products might be the most profitable items. In contrast, Furniture is the least profitable items across all product categories, indicating potential for cost optimization or pricing adjustments.
+
+  ![Picture1](https://github.com/SueTan309/SuperStore-Sale-Analysis/assets/169891418/b8acfbb1-517f-4c8d-b44e-ed45ef006664)
+
+- The map highlights the top three states in term of sales. California led with the highest sales at $457,687K, followed by New York with sales amounting for $310,870K and Texas with sales totaling 170,188K during the given period. These states are shown in the darker shades on the map, indicating their significant contributing to overall store’s sale.
+- Monitoring, analyzing sale market trends and consumers’ feedback in these top-performing state to stay ahead of competitor and sustain growth.  
+
+
 
