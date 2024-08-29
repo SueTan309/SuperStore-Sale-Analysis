@@ -45,5 +45,5 @@ The data set includes various superstore's information from 2019 to 2022, includ
 
 
 ## CONTACT
-If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
+If you have any questions regarding this projects, please feel free to email me at sue.tan309@gmail.com
 
